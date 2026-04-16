@@ -16,7 +16,7 @@ Muestras: 321
 Rango original: 0 – 169 lux
 Rango normalizado: 0 – 100
 Base de datos
-El archivo vela_luz_normalizada.csv contiene tres columnas:
+El archivo vela_luz.csv contiene tres columnas:
 
 # columna	descripción
 seconds_elapsed	tiempo transcurrido desde el inicio de la grabación (segundos)
@@ -24,8 +24,6 @@ lux	valor bruto del sensor de luz
 lux_normalizado	valor reescalado al rango 0–100
 El archivo bruto original exportado por Sensor Logger 
 
-
-[Uploading vela_iglesia.pde…]()
 
 [2026-04-16_03-41-41 (1).zip](https://github.com/user-attachments/files/26786265/2026-04-16_03-41-41.1.zip)
 
